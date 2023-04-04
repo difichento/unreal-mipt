@@ -13,3 +13,4 @@
    \+ экипировка, например, покупапается за валюту 
    
 Иерархия папок: https://drive.google.com/file/d/1D60xFjbUO9k8-N3GUivW-KjZZDyqGZEt/view?usp=sharing
+Диаграмма классов: https://app.diagrams.net/#G17jNhmbmIwCiTP4n6cRKo9B63-m1mochY
